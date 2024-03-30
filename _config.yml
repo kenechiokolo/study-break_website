@@ -46,7 +46,7 @@ features                                  :
 
   - title                                 : Chart your progress and improve over time
     description                           : The app features beautiful charts to illustrate trends at a glance.
-    fontawesome_icon_name                 : chart-simple
+    fontawesome_icon_name                 : chart-column
 
   - title                                 : Sync Across Multiple Devices
     description                           : Available on iPhone, Apple Watch, iPad & Mac.
