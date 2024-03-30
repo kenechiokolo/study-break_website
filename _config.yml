@@ -23,7 +23,7 @@ enable_smart_app_banner                   : true                                
 your_name                                 : KC Okolo                                
 your_link                                 : https://kenech.io                     
 your_city                                 : London                                
-email_address                             : mr@kenech.io
+email_address                             : studybreaksupport@kenech.io
 facebook_username                         :                                           
 instagram_username                        : 
 twitter_username                          : 
@@ -38,11 +38,11 @@ features                                  :
 
   - title                                 : AI Powered Study Plans!
     description                           : Create personalized study plans with AI to get you ready for any exam.
-    fontawesome_icon_name                 : microchip-ai
+    fontawesome_icon_name                 : calendar
     
   - title                                 : Simple, Effective Time Tracking
     description                           : Our modified Pomodoro technique has been proven to help students get better results.
-    fontawesome_icon_name                 : timer
+    fontawesome_icon_name                 : clock
 
   - title                                 : Chart your progress and improve over time
     description                           : The app features beautiful charts to illustrate trends at a glance.
